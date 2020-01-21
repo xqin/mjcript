@@ -1,4 +1,4 @@
-(function(exports) {
+(function() {
   var invalidParamStr = 'Invalid parameter';
   var missingParamStr = 'Missing parameter';
 
@@ -247,4 +247,4 @@
     }
     return array;
   };
-})(exports);
+})();
